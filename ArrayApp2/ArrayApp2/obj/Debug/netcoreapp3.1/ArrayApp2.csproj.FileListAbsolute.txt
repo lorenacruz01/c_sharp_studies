@@ -1,0 +1,14 @@
+C:\workspace\c_sharp\ArrayApp2\ArrayApp2\bin\Debug\netcoreapp3.1\ArrayApp2.exe
+C:\workspace\c_sharp\ArrayApp2\ArrayApp2\bin\Debug\netcoreapp3.1\ArrayApp2.deps.json
+C:\workspace\c_sharp\ArrayApp2\ArrayApp2\bin\Debug\netcoreapp3.1\ArrayApp2.runtimeconfig.json
+C:\workspace\c_sharp\ArrayApp2\ArrayApp2\bin\Debug\netcoreapp3.1\ArrayApp2.runtimeconfig.dev.json
+C:\workspace\c_sharp\ArrayApp2\ArrayApp2\bin\Debug\netcoreapp3.1\ArrayApp2.dll
+C:\workspace\c_sharp\ArrayApp2\ArrayApp2\bin\Debug\netcoreapp3.1\ArrayApp2.pdb
+C:\workspace\c_sharp\ArrayApp2\ArrayApp2\obj\Debug\netcoreapp3.1\ArrayApp2.csproj.AssemblyReference.cache
+C:\workspace\c_sharp\ArrayApp2\ArrayApp2\obj\Debug\netcoreapp3.1\ArrayApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\c_sharp\ArrayApp2\ArrayApp2\obj\Debug\netcoreapp3.1\ArrayApp2.AssemblyInfoInputs.cache
+C:\workspace\c_sharp\ArrayApp2\ArrayApp2\obj\Debug\netcoreapp3.1\ArrayApp2.AssemblyInfo.cs
+C:\workspace\c_sharp\ArrayApp2\ArrayApp2\obj\Debug\netcoreapp3.1\ArrayApp2.csproj.CoreCompileInputs.cache
+C:\workspace\c_sharp\ArrayApp2\ArrayApp2\obj\Debug\netcoreapp3.1\ArrayApp2.dll
+C:\workspace\c_sharp\ArrayApp2\ArrayApp2\obj\Debug\netcoreapp3.1\ArrayApp2.pdb
+C:\workspace\c_sharp\ArrayApp2\ArrayApp2\obj\Debug\netcoreapp3.1\ArrayApp2.genruntimeconfig.cache
