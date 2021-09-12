@@ -1,0 +1,14 @@
+C:\workspace\c_sharp_studies\ForEachApp1\ForEachApp1\bin\Debug\netcoreapp3.1\ForEachApp1.exe
+C:\workspace\c_sharp_studies\ForEachApp1\ForEachApp1\bin\Debug\netcoreapp3.1\ForEachApp1.deps.json
+C:\workspace\c_sharp_studies\ForEachApp1\ForEachApp1\bin\Debug\netcoreapp3.1\ForEachApp1.runtimeconfig.json
+C:\workspace\c_sharp_studies\ForEachApp1\ForEachApp1\bin\Debug\netcoreapp3.1\ForEachApp1.runtimeconfig.dev.json
+C:\workspace\c_sharp_studies\ForEachApp1\ForEachApp1\bin\Debug\netcoreapp3.1\ForEachApp1.dll
+C:\workspace\c_sharp_studies\ForEachApp1\ForEachApp1\bin\Debug\netcoreapp3.1\ForEachApp1.pdb
+C:\workspace\c_sharp_studies\ForEachApp1\ForEachApp1\obj\Debug\netcoreapp3.1\ForEachApp1.csproj.AssemblyReference.cache
+C:\workspace\c_sharp_studies\ForEachApp1\ForEachApp1\obj\Debug\netcoreapp3.1\ForEachApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\c_sharp_studies\ForEachApp1\ForEachApp1\obj\Debug\netcoreapp3.1\ForEachApp1.AssemblyInfoInputs.cache
+C:\workspace\c_sharp_studies\ForEachApp1\ForEachApp1\obj\Debug\netcoreapp3.1\ForEachApp1.AssemblyInfo.cs
+C:\workspace\c_sharp_studies\ForEachApp1\ForEachApp1\obj\Debug\netcoreapp3.1\ForEachApp1.csproj.CoreCompileInputs.cache
+C:\workspace\c_sharp_studies\ForEachApp1\ForEachApp1\obj\Debug\netcoreapp3.1\ForEachApp1.dll
+C:\workspace\c_sharp_studies\ForEachApp1\ForEachApp1\obj\Debug\netcoreapp3.1\ForEachApp1.pdb
+C:\workspace\c_sharp_studies\ForEachApp1\ForEachApp1\obj\Debug\netcoreapp3.1\ForEachApp1.genruntimeconfig.cache
