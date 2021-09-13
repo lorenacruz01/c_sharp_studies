@@ -1,0 +1,14 @@
+C:\workspace\c_sharp_studies\MatrixApp1\MatrixApp1\bin\Debug\netcoreapp3.1\MatrixApp1.exe
+C:\workspace\c_sharp_studies\MatrixApp1\MatrixApp1\bin\Debug\netcoreapp3.1\MatrixApp1.deps.json
+C:\workspace\c_sharp_studies\MatrixApp1\MatrixApp1\bin\Debug\netcoreapp3.1\MatrixApp1.runtimeconfig.json
+C:\workspace\c_sharp_studies\MatrixApp1\MatrixApp1\bin\Debug\netcoreapp3.1\MatrixApp1.runtimeconfig.dev.json
+C:\workspace\c_sharp_studies\MatrixApp1\MatrixApp1\bin\Debug\netcoreapp3.1\MatrixApp1.dll
+C:\workspace\c_sharp_studies\MatrixApp1\MatrixApp1\bin\Debug\netcoreapp3.1\MatrixApp1.pdb
+C:\workspace\c_sharp_studies\MatrixApp1\MatrixApp1\obj\Debug\netcoreapp3.1\MatrixApp1.csproj.AssemblyReference.cache
+C:\workspace\c_sharp_studies\MatrixApp1\MatrixApp1\obj\Debug\netcoreapp3.1\MatrixApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\c_sharp_studies\MatrixApp1\MatrixApp1\obj\Debug\netcoreapp3.1\MatrixApp1.AssemblyInfoInputs.cache
+C:\workspace\c_sharp_studies\MatrixApp1\MatrixApp1\obj\Debug\netcoreapp3.1\MatrixApp1.AssemblyInfo.cs
+C:\workspace\c_sharp_studies\MatrixApp1\MatrixApp1\obj\Debug\netcoreapp3.1\MatrixApp1.csproj.CoreCompileInputs.cache
+C:\workspace\c_sharp_studies\MatrixApp1\MatrixApp1\obj\Debug\netcoreapp3.1\MatrixApp1.dll
+C:\workspace\c_sharp_studies\MatrixApp1\MatrixApp1\obj\Debug\netcoreapp3.1\MatrixApp1.pdb
+C:\workspace\c_sharp_studies\MatrixApp1\MatrixApp1\obj\Debug\netcoreapp3.1\MatrixApp1.genruntimeconfig.cache
