@@ -1,0 +1,14 @@
+C:\workspace\c_sharp_studies\MatrixApp2\MatrixApp2\bin\Debug\netcoreapp3.1\MatrixApp2.exe
+C:\workspace\c_sharp_studies\MatrixApp2\MatrixApp2\bin\Debug\netcoreapp3.1\MatrixApp2.deps.json
+C:\workspace\c_sharp_studies\MatrixApp2\MatrixApp2\bin\Debug\netcoreapp3.1\MatrixApp2.runtimeconfig.json
+C:\workspace\c_sharp_studies\MatrixApp2\MatrixApp2\bin\Debug\netcoreapp3.1\MatrixApp2.runtimeconfig.dev.json
+C:\workspace\c_sharp_studies\MatrixApp2\MatrixApp2\bin\Debug\netcoreapp3.1\MatrixApp2.dll
+C:\workspace\c_sharp_studies\MatrixApp2\MatrixApp2\bin\Debug\netcoreapp3.1\MatrixApp2.pdb
+C:\workspace\c_sharp_studies\MatrixApp2\MatrixApp2\obj\Debug\netcoreapp3.1\MatrixApp2.csproj.AssemblyReference.cache
+C:\workspace\c_sharp_studies\MatrixApp2\MatrixApp2\obj\Debug\netcoreapp3.1\MatrixApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\c_sharp_studies\MatrixApp2\MatrixApp2\obj\Debug\netcoreapp3.1\MatrixApp2.AssemblyInfoInputs.cache
+C:\workspace\c_sharp_studies\MatrixApp2\MatrixApp2\obj\Debug\netcoreapp3.1\MatrixApp2.AssemblyInfo.cs
+C:\workspace\c_sharp_studies\MatrixApp2\MatrixApp2\obj\Debug\netcoreapp3.1\MatrixApp2.csproj.CoreCompileInputs.cache
+C:\workspace\c_sharp_studies\MatrixApp2\MatrixApp2\obj\Debug\netcoreapp3.1\MatrixApp2.dll
+C:\workspace\c_sharp_studies\MatrixApp2\MatrixApp2\obj\Debug\netcoreapp3.1\MatrixApp2.pdb
+C:\workspace\c_sharp_studies\MatrixApp2\MatrixApp2\obj\Debug\netcoreapp3.1\MatrixApp2.genruntimeconfig.cache
