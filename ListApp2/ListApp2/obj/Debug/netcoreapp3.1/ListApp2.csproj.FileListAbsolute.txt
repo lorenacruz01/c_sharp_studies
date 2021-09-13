@@ -1,0 +1,14 @@
+C:\Users\Usuário\source\repos\ListApp2\ListApp2\bin\Debug\netcoreapp3.1\ListApp2.exe
+C:\Users\Usuário\source\repos\ListApp2\ListApp2\bin\Debug\netcoreapp3.1\ListApp2.deps.json
+C:\Users\Usuário\source\repos\ListApp2\ListApp2\bin\Debug\netcoreapp3.1\ListApp2.runtimeconfig.json
+C:\Users\Usuário\source\repos\ListApp2\ListApp2\bin\Debug\netcoreapp3.1\ListApp2.runtimeconfig.dev.json
+C:\Users\Usuário\source\repos\ListApp2\ListApp2\bin\Debug\netcoreapp3.1\ListApp2.dll
+C:\Users\Usuário\source\repos\ListApp2\ListApp2\bin\Debug\netcoreapp3.1\ListApp2.pdb
+C:\Users\Usuário\source\repos\ListApp2\ListApp2\obj\Debug\netcoreapp3.1\ListApp2.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\ListApp2\ListApp2\obj\Debug\netcoreapp3.1\ListApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\ListApp2\ListApp2\obj\Debug\netcoreapp3.1\ListApp2.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\ListApp2\ListApp2\obj\Debug\netcoreapp3.1\ListApp2.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\ListApp2\ListApp2\obj\Debug\netcoreapp3.1\ListApp2.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\ListApp2\ListApp2\obj\Debug\netcoreapp3.1\ListApp2.dll
+C:\Users\Usuário\source\repos\ListApp2\ListApp2\obj\Debug\netcoreapp3.1\ListApp2.pdb
+C:\Users\Usuário\source\repos\ListApp2\ListApp2\obj\Debug\netcoreapp3.1\ListApp2.genruntimeconfig.cache
