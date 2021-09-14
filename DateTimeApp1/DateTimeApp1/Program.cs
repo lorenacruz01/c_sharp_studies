@@ -19,8 +19,14 @@ namespace DateTimeApp1 {
             Console.WriteLine("12) TimeOfDay: " + d.TimeOfDay);
             Console.WriteLine("13) Year: " + d.Year);
             Console.WriteLine("-----------------------------");
-            Console.WriteLine("Data: " + d.ToLongDateString());
-            Console.WriteLine("Horário: " + d.ToLongTimeString());
+            Console.WriteLine("Data longa: " + d.ToLongDateString());
+            Console.WriteLine("Horário longo: " + d.ToLongTimeString());
+            Console.WriteLine("Data curta: " + d.ToShortDateString());
+            Console.WriteLine("Horário curto: " + d.ToShortTimeString());
+            Console.WriteLine("-----------------------------");
+            Console.WriteLine("Data formatada: " + d.ToString("yyyy-MM-dd HH:mm:ss"));
+            Console.WriteLine("Horário longo: " + d.ToLongTimeString());
+
         }
     }
 }
