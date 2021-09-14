@@ -1,0 +1,14 @@
+C:\workspace\c_sharp_studies\DateTimeApp1\DateTimeApp1\bin\Debug\netcoreapp3.1\DateTimeApp1.exe
+C:\workspace\c_sharp_studies\DateTimeApp1\DateTimeApp1\bin\Debug\netcoreapp3.1\DateTimeApp1.deps.json
+C:\workspace\c_sharp_studies\DateTimeApp1\DateTimeApp1\bin\Debug\netcoreapp3.1\DateTimeApp1.runtimeconfig.json
+C:\workspace\c_sharp_studies\DateTimeApp1\DateTimeApp1\bin\Debug\netcoreapp3.1\DateTimeApp1.runtimeconfig.dev.json
+C:\workspace\c_sharp_studies\DateTimeApp1\DateTimeApp1\bin\Debug\netcoreapp3.1\DateTimeApp1.dll
+C:\workspace\c_sharp_studies\DateTimeApp1\DateTimeApp1\bin\Debug\netcoreapp3.1\DateTimeApp1.pdb
+C:\workspace\c_sharp_studies\DateTimeApp1\DateTimeApp1\obj\Debug\netcoreapp3.1\DateTimeApp1.csproj.AssemblyReference.cache
+C:\workspace\c_sharp_studies\DateTimeApp1\DateTimeApp1\obj\Debug\netcoreapp3.1\DateTimeApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\c_sharp_studies\DateTimeApp1\DateTimeApp1\obj\Debug\netcoreapp3.1\DateTimeApp1.AssemblyInfoInputs.cache
+C:\workspace\c_sharp_studies\DateTimeApp1\DateTimeApp1\obj\Debug\netcoreapp3.1\DateTimeApp1.AssemblyInfo.cs
+C:\workspace\c_sharp_studies\DateTimeApp1\DateTimeApp1\obj\Debug\netcoreapp3.1\DateTimeApp1.csproj.CoreCompileInputs.cache
+C:\workspace\c_sharp_studies\DateTimeApp1\DateTimeApp1\obj\Debug\netcoreapp3.1\DateTimeApp1.dll
+C:\workspace\c_sharp_studies\DateTimeApp1\DateTimeApp1\obj\Debug\netcoreapp3.1\DateTimeApp1.pdb
+C:\workspace\c_sharp_studies\DateTimeApp1\DateTimeApp1\obj\Debug\netcoreapp3.1\DateTimeApp1.genruntimeconfig.cache
