@@ -1,0 +1,14 @@
+C:\workspace\c_sharp_studies\EnumApp1\EnumApp1\obj\Debug\netcoreapp3.1\EnumApp1.csproj.AssemblyReference.cache
+C:\workspace\c_sharp_studies\EnumApp1\EnumApp1\obj\Debug\netcoreapp3.1\EnumApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\c_sharp_studies\EnumApp1\EnumApp1\obj\Debug\netcoreapp3.1\EnumApp1.AssemblyInfoInputs.cache
+C:\workspace\c_sharp_studies\EnumApp1\EnumApp1\obj\Debug\netcoreapp3.1\EnumApp1.AssemblyInfo.cs
+C:\workspace\c_sharp_studies\EnumApp1\EnumApp1\obj\Debug\netcoreapp3.1\EnumApp1.csproj.CoreCompileInputs.cache
+C:\workspace\c_sharp_studies\EnumApp1\EnumApp1\bin\Debug\netcoreapp3.1\EnumApp1.exe
+C:\workspace\c_sharp_studies\EnumApp1\EnumApp1\bin\Debug\netcoreapp3.1\EnumApp1.deps.json
+C:\workspace\c_sharp_studies\EnumApp1\EnumApp1\bin\Debug\netcoreapp3.1\EnumApp1.runtimeconfig.json
+C:\workspace\c_sharp_studies\EnumApp1\EnumApp1\bin\Debug\netcoreapp3.1\EnumApp1.runtimeconfig.dev.json
+C:\workspace\c_sharp_studies\EnumApp1\EnumApp1\bin\Debug\netcoreapp3.1\EnumApp1.dll
+C:\workspace\c_sharp_studies\EnumApp1\EnumApp1\bin\Debug\netcoreapp3.1\EnumApp1.pdb
+C:\workspace\c_sharp_studies\EnumApp1\EnumApp1\obj\Debug\netcoreapp3.1\EnumApp1.dll
+C:\workspace\c_sharp_studies\EnumApp1\EnumApp1\obj\Debug\netcoreapp3.1\EnumApp1.pdb
+C:\workspace\c_sharp_studies\EnumApp1\EnumApp1\obj\Debug\netcoreapp3.1\EnumApp1.genruntimeconfig.cache
