@@ -16,6 +16,11 @@ namespace EnumApp1
             };
 
             Console.WriteLine(order);
+
+            string str = OrderStatus.PendingPayment.ToString();
+            OrderStatus os = Enum.Parse<OrderStatus>("Delivered");
+            Console.WriteLine(str);
+            Console.WriteLine(os);
         }
     }
 }
