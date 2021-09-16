@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 using System.Collections.Generic;
 using CompositionApp1.Entities.Enums;
 
@@ -43,12 +44,18 @@ namespace CompositionApp1.Entities
             {
                 if(contract.Date.Year == year && contract.Date.Month == month)
                 {
+                    Console.WriteLine(sum);
                     sum += contract.TotalValue();
                 }
                 
             }
 
             return sum;
+        }
+
+        public override string ToString()
+        {
+            return "Nome: " + Name + ", Nível: " + Level + ", Departamento: " + Department.Name + ", Salário Base: " + BaseSalary.ToString("F2", CultureInfo.InvariantCulture);
         }
     }
 }
