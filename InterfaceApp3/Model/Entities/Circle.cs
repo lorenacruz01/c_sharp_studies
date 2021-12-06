@@ -5,12 +5,12 @@ using System.Text;
 
 namespace InterfaceApp3.Model.Entities
 {
-    class Circle : Shape
+    class Circle : AbstractShape
     {
         public double Radius { get; set; }
         public override double Area()
         {
-            double area = Math.Sqrt(Radius) * Math.PI;
+            double area = Radius * Radius * Math.PI;
             return area;
         }
 
