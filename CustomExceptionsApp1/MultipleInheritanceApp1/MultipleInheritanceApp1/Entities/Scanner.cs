@@ -4,7 +4,7 @@ using System.Text;
 
 namespace MultipleInheritanceApp1.Entities
 {
-    class Scanner : Device
+    class Scanner : Device, IScanner
     {
         public override void ProcessDocument(string doc)
         {

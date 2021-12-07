@@ -9,11 +9,16 @@ namespace MultipleInheritanceApp1
         {
             Printer p = new Printer() { SerialNumber = 1080 };
             p.ProcessDocument("My letter");
-            p.Print();
+            p.Print("my letter");
 
             Scanner s = new Scanner() { SerialNumber = 2003 };
             s.ProcessDocument("My test");
             Console.WriteLine(s.Scan());
+
+            ComboDevice c = new ComboDevice() { SerialNumber = 3291 };
+            c.ProcessDocument("My dissertation");
+            c.Print("My dissertation");
+            Console.WriteLine(c.Scan());
         }
     }
 }
