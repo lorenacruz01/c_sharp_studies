@@ -6,17 +6,17 @@ namespace GenericsApp2.Services
 {
     class CalculationService
     {
-        public int Max(List<int> list)
+        public T Max<T>(List<T> list) where T : IComparable
         {
             if(list.Count == 0)
             {
                 throw new ArgumentException("The list cannot be empty!");
             }
 
-            int max = list[0];
+            T max = list[0];
             for(int i = 0; i < list.Count; i++)
             {
-                if(list[i] > max)
+                if(list[i].CompareTo(max) > 0) // *Erro* nada garante que o tipo T irá aceitar o operador >
                 {
                     max = list[i];
                 }
