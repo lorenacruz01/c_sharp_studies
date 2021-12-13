@@ -1,6 +1,8 @@
-﻿using GenericsApp2.Services;
+﻿using GenericsApp2.Entities;
+using GenericsApp2.Services;
 using System;
 using System.Collections.Generic;
+using System.Globalization;
 
 namespace GenericsApp2
 {
@@ -8,18 +10,21 @@ namespace GenericsApp2
     {
         static void Main(string[] args)
         {
-            List<int> list = new List<int>();
+            List<Product> list = new List<Product>();
             Console.Write("Enter n: ");
             int n = int.Parse(Console.ReadLine());
 
             for(int i = 0; i < n; i++)
             {
-                int x = int.Parse(Console.ReadLine());
-                list.Add(x);
+                string[] vect = Console.ReadLine().Split(',');
+                string name = vect[0];
+                double price = double.Parse(vect[1], CultureInfo.InvariantCulture);
+                
+                list.Add(new Product(name, price));
             }
 
             CalculationService calculationService = new CalculationService();
-            int max = calculationService.Max(list);
+            Product max = calculationService.Max(list);
             Console.WriteLine("Max: " + max);
             
         }
