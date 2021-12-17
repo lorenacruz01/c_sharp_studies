@@ -1,4 +1,5 @@
-﻿using System;
+﻿using GetHashCodeApp1.Entities;
+using System;
 
 namespace GetHashCodeApp1
 {
@@ -6,11 +7,15 @@ namespace GetHashCodeApp1
     {
         static void Main(string[] args)
         {
-            string a = "Maria";
-            string b = "Maria";
-            //dentro da mesma execução, mostra o mesmo hashcode
+            Client a = new Client("Maria", "maria@gmail.com");
+            Client b = new Client("Alex", "maria@gmail.com");
+
+            Console.WriteLine("a equals b? ");
+            Console.WriteLine(a.Equals(b)); //iguais do ponto de vista do conteudo?
+            Console.WriteLine("--------------");
             Console.WriteLine(a.GetHashCode());
             Console.WriteLine(b.GetHashCode());
+
         }
     }
 }
