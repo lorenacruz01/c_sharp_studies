@@ -13,6 +13,7 @@ namespace EqualsApp1
             Console.WriteLine(a.Equals(b));
             Console.WriteLine("B and C => Equal?");
             Console.WriteLine(b.Equals(c));
+
         }
     }
 }
