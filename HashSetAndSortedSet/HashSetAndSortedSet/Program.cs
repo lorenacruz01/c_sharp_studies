@@ -12,6 +12,7 @@ namespace HashSetAndSortedSet
             set.Add("TV");
             set.Add("Notebook");
             set.Add("tablet");
+            set.Add("smartwatch");
             Console.WriteLine(set.Contains("Notebook"));
 
 
@@ -19,6 +20,7 @@ namespace HashSetAndSortedSet
             {
                 Console.WriteLine(s);
             }
+            
 
             Console.WriteLine("---Uso do SortedSet---");
             SortedSet<int> a = new SortedSet<int>() { 0, 2, 4, 5, 6, 8, 10 };
