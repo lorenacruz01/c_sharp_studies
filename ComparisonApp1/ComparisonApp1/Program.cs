@@ -21,6 +21,16 @@ namespace ComparisonApp1
                 Console.WriteLine(p);
             }
 
+            Console.WriteLine("segunda maneira de usar o Comparison");
+
+            Comparison<Product> comp = CompareProducts;
+            list.Sort(comp);
+
+            foreach (Product p in list)
+            {
+                Console.WriteLine(p);
+            }
+
         }
 
         static int CompareProducts(Product p1, Product p2)
